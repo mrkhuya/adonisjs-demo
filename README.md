@@ -1,2 +1,2 @@
-# adonisjs-try
+# Learn AdonisJs
 Try AdonisJs
